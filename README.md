@@ -1,1 +1,1 @@
-"This is contained in the sub-directory"
+"I like this repository"
